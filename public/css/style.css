@@ -9,11 +9,8 @@
 .container-fluid img{
     width: 50px;
 }
-.carrito i{
-  background-color: none;
-  color: #0011ff;
-  font-size: 40px;
-}
+
+
 
 /*main*/
 
@@ -50,8 +47,7 @@
 .logitech{
   display: flex;
   justify-content: space-around;
-  
-}
+  }
 
 .pulsar{
   display: flex;
@@ -61,7 +57,6 @@
   display: flex;
   justify-content: space-around;
 }
-
 
 /*footer*/
 .contenedor {
